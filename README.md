@@ -10,7 +10,10 @@
 
 ### 開発協力者
 
-* [shiena](https://github.com/shiena)
+[Contributors](https://github.com/Sinoa/ImtStateMachine/graphs/contributors)を参照
+
+* 旧IceMilkTeaからのコントリビュータ引き継ぎ
+  * [shiena](https://github.com/shiena)
 
 ### ライセンス
 
