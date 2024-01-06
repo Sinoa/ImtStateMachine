@@ -14,6 +14,9 @@
 
 * 旧IceMilkTeaからのコントリビュータ引き継ぎ
   * [shiena](https://github.com/shiena)
+    * IL2CPPビルドに関する実装支援
+  * [ksatoudeveloper](https://github.com/ksatoudeveloper)
+    * ImtStateMachineのイベントをジェネリック化検討及び実装支援
 
 ### ライセンス
 
